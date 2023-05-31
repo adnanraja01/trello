@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b054134d.css",
-    "main.js": "/static/js/main.fcd5cd38.js",
-    "static/media/bar-chart.svg": "/static/media/bar-chart.dd97fb606729e3c73c3988c933747e60.svg",
-    "static/media/pencil.svg": "/static/media/pencil.5a0a746ebf618702be43569e61213784.svg",
-    "static/media/share.svg": "/static/media/share.95b383971d3602e4af07c14738fd5de3.svg",
-    "static/media/grid.svg": "/static/media/grid.8985ba6980091a50d9c4706fbc03b6e4.svg",
-    "static/media/layout.svg": "/static/media/layout.7bb45a983514ffc38e7b5a3ae3a805a3.svg",
-    "static/media/check-circle.svg": "/static/media/check-circle.c2615fb1c9f2aedc6de54f0739c462c1.svg",
-    "index.html": "/index.html",
-    "static/media/leftArrow.svg": "/static/media/leftArrow.75acd3e93a5528c738c383b00048a808.svg",
-    "static/media/plus.svg": "/static/media/plus.2a4923646fd5841fcca7ab539835aa71.svg",
-    "main.b054134d.css.map": "/static/css/main.b054134d.css.map",
-    "main.fcd5cd38.js.map": "/static/js/main.fcd5cd38.js.map"
+    "main.css": "/trello/static/css/main.b054134d.css",
+    "main.js": "/trello/static/js/main.6bd9da26.js",
+    "static/media/bar-chart.svg": "/trello/static/media/bar-chart.dd97fb606729e3c73c3988c933747e60.svg",
+    "static/media/pencil.svg": "/trello/static/media/pencil.5a0a746ebf618702be43569e61213784.svg",
+    "static/media/share.svg": "/trello/static/media/share.95b383971d3602e4af07c14738fd5de3.svg",
+    "static/media/grid.svg": "/trello/static/media/grid.8985ba6980091a50d9c4706fbc03b6e4.svg",
+    "static/media/layout.svg": "/trello/static/media/layout.7bb45a983514ffc38e7b5a3ae3a805a3.svg",
+    "static/media/check-circle.svg": "/trello/static/media/check-circle.c2615fb1c9f2aedc6de54f0739c462c1.svg",
+    "index.html": "/trello/index.html",
+    "static/media/leftArrow.svg": "/trello/static/media/leftArrow.75acd3e93a5528c738c383b00048a808.svg",
+    "static/media/plus.svg": "/trello/static/media/plus.2a4923646fd5841fcca7ab539835aa71.svg",
+    "main.b054134d.css.map": "/trello/static/css/main.b054134d.css.map",
+    "main.6bd9da26.js.map": "/trello/static/js/main.6bd9da26.js.map"
   },
   "entrypoints": [
     "static/css/main.b054134d.css",
-    "static/js/main.fcd5cd38.js"
+    "static/js/main.6bd9da26.js"
   ]
 }
