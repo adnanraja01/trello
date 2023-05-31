@@ -9,13 +9,13 @@ import Main from "./Layout/Main";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<RootLayout />}>
-          <Route path="/" element={<Main />} />
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <div className="flex w-[100vw]">
+      <SideBar />
+      <div className="w-full">
+        <Header />
+        <Main />
+      </div>
+    </div>
   );
 }
 
